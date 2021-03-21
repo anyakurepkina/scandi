@@ -1,0 +1,31 @@
+.footer {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	font-size: 18px;
+	line-height: 1.67;
+	color: #533738;
+	padding: 37px 0;
+}
+
+.footer__right {
+	margin-left: auto;
+}
+
+.footer__phone {
+	margin-right: 42px;
+	color: #533738;
+	text-decoration: none;
+	transition: color 0.3s;
+}
+
+.footer p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.footer__phone:hover {
+	color: #cc8b86cc;
+}

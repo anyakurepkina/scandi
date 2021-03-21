@@ -1,0 +1,39 @@
+.team {
+	background-color: #e2c4ba;
+	padding-top: 50px;
+	padding-bottom: 35px;
+}
+
+.team__title {
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 1.25;
+	color: #533738;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.team-block {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 40px !important;
+	padding: 0;
+}
+
+.team-block__item {
+	width: 100%;
+	max-width: 320px;
+	margin: 0;
+}
+
+.team-block__img {
+	width: 100%;
+}
+
+.team-block__text {
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.67;
+	color: #533738;
+	margin-top: 10px;
+}
