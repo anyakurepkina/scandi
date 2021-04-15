@@ -25,7 +25,7 @@
 .about__text {
 	font-size: 18px;
 	line-height: 1.67;
-	color: #533738;
+	color: red;
 	margin: 0;
 }
 .about__text + .about__text {
